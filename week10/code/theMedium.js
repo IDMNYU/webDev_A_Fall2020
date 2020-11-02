@@ -37,3 +37,20 @@ document.addEventListener('keydown',function() {
  console.log("you pressed any key!")
 })
 
+
+// some p5.js fun....
+// global varialbes are great for browser debugging
+var theCanvas;
+var theCircle;
+//
+function setup() {
+ console.log("p5!");
+ theCanvas = createCanvas(500,500);
+ background(0,100,0)
+}
+
+
+function keyPressed() {
+  console.log("p5 key pressed!");
+  theCircle = ellipse(random(10,300),100,10,10);
+}
