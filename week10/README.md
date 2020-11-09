@@ -1,8 +1,10 @@
 ###### The DOM
 * [Eloquent JS - Chapter 14 The DOM](https://eloquentjavascript.net/14_dom.html)
 * [w3 - what is the DOM?](https://www.w3.org/TR/DOM-Level-1/introduction.html)
+* [HTML element properties + methods](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
 * [ES6 Arrow function notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [JS keycode tool](https://keycode.info/)
+* [Deferred](https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/Promise.jsm/Deferred)s
 
 ###### Native JS Resources
 * [JS Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
