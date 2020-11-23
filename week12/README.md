@@ -15,4 +15,5 @@
 * [p5.js](https://p5js.org/) - creative code using canvas
 * [three.js](https://threejs.org/) - 3D graphics using canvas
 * [React.js](https://reactjs.org/) - interactive UI
+* [hammer.js](https://hammerjs.github.io/)
 * [node.js](https://nodejs.org/en/) - init serverSide
