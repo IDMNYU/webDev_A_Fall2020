@@ -3,7 +3,7 @@ Your final is to create a website using HTML, CSS + JavaScript. It must contain 
 
 You will create a concept + wireframe(s) for the different layout of your pages. You must create a webpage that acts as a project proposal slide deck - explains your site  + includes relevant details. Create a slide only deck for your + host it on your class site.
 
-Slide project proposal presentations + user testing will be Monday November 30 - please post a link to your presentation [here](https://github.com/IDMNYU/webDev_C_Fall2020/wiki/***-Final-Projects). In breakout rooms you will present and user test your project with your classmates. Everyone must participate, giving + receiving feedback.
+Slide project proposal presentations will be Monday November 30 - please post a link to your presentation [here](https://github.com/IDMNYU/webDev_A_Fall2020/wiki/***-Final-Projects). Teh next two classes will be for user testing, skill sharing + code studio. In breakout rooms you will present and user test your project with your classmates. Everyone must participate, giving + receiving feedback.
 
 Your Final Must be a CONTEMPORARY Web Page. This means responsive and using semantic HTML 5. I am not setting a page # requirement, but will be looking for evidence that you put effort into making the most technically + aesthetically sophisticated project you can.
 
